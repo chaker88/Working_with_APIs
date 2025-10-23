@@ -1,0 +1,38 @@
+# Python cache and build files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+build/
+dist/
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and config files
+.env
+venv/
+.venv/
+.envrc
+*.sqlite3
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# OS / system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Pipenv and virtual environment files
+Pipfile.lock
+*.env.local
+
+# Miscellaneous
+*.bak
+*.tmp
