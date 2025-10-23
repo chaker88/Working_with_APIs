@@ -1,7 +1,0 @@
-prefix=/workspaces/Working_with_APIs/venv
-includedir=${prefix}/include
- 
-Name: DRI2Proto
-Description: DRI2 extension headers
-Version: 2.8
-Cflags: -I${includedir}
