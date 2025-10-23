@@ -1,0 +1,7 @@
+prefix=/workspaces/Working_with_APIs/venv
+includedir=${prefix}/include
+
+Name: RenderProto
+Description: Render extension headers
+Version: 0.11.1
+Cflags: -I${includedir}

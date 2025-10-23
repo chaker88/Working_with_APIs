@@ -1,0 +1,7 @@
+prefix=/workspaces/Working_with_APIs/venv
+includedir=${prefix}/include
+ 
+Name: GLProto
+Description: GL extension headers
+Version: 1.4.17
+Cflags: -I${includedir}
